@@ -16,5 +16,10 @@ namespace NM___wyszukiwarka_plików
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("tutaj bedzie fajny program", "important message");
+        }
     }
 }
