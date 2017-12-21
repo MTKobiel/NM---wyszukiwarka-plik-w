@@ -21,5 +21,10 @@ namespace NM___wyszukiwarka_plików
         {
             MessageBox.Show("tutaj bedzie fajny program", "important message");
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
